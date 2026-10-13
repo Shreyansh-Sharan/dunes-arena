@@ -1375,3 +1375,17 @@ p {
     bottom: 156px;
   }
 }
+
+.hub-tiles .tile:hover {
+  transform: scale(1.08);
+}
+
+.airship-stops .btn {
+  justify-content: flex-start;
+  text-align: left;
+  gap: 8px;
+}
+
+.airship-stops .btn .muted {
+  margin-left: 6px;
+}
