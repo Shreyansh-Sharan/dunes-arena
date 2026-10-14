@@ -2,7 +2,7 @@
 
 A lightweight browser shooter on six original maps, including three classic-style arenas (Sandstorm, Villa and Bazaar). Five weapons from sidearm to scoped sniper, right-click aiming, AI bots or friends by invite code, plus dash, double jump, overshield and pulse scan.
 
-Built with Unity 6 (WebGL build) with a React lobby. Part of [Shreyansh Sharan's portfolio](https://shreyansh-sharan.github.io/shreyanshsharan-portfolio/), split into its own site.
+Built with Unity 6 (WebGL build) with a React lobby. Part of [Shreyansh Sharan's portfolio](https://shreyanshsharan.com/), split into its own site.
 
 ```bash
 npm install
